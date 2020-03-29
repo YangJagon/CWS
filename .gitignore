@@ -1,0 +1,8 @@
+model/
+model1/
+.idea/
+.cache/
+__pycache__/
+*.zip
+debug.json
+debug.log
